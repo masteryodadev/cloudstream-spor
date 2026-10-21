@@ -1,0 +1,8 @@
+{
+    "name": "Spor",
+    "description": "SelçukSports ve NetSpor canlı yayın eklentileri",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/masteryodadev/cloudstream-spor/builds/plugins.json"
+    ]
+}
